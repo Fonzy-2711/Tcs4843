@@ -10,7 +10,5 @@ Amazon
 ### Gist
 Template for adding new pages later [my code](https://gist.github.com/Fonzy-2711/0761709fcb4dcd99b9519a20b549797b)
 
-### Colab Example
-
-
 ### Image
+This is page 3 of website [image](https://github.com/Fonzy-2711/cs4843/issues/1)
